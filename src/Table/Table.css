@@ -1,0 +1,21 @@
+.table{
+    float: left;
+    width: 15%;
+    min-width: 200px;
+    min-height: 100px;
+    background-color: gray;
+    margin: 20px 20px 0 0;
+}
+
+.tableTitle{
+    background-color: gray;
+    font-size: 20px;
+    border: solid;
+    border-width: thin;
+    padding: 5px;
+}
+
+.tableContent{
+    word-wrap: break-word;
+    padding: 10px;
+}
