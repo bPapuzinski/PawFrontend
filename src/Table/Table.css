@@ -2,13 +2,13 @@
     float: left;
     width: 15%;
     min-width: 200px;
-    min-height: 100px;
-    background-color: gray;
+    background-color:  rgba(175, 175, 175);
     margin: 20px 20px 0 0;
+    height: fit-content;
 }
 
 .tableTitle{
-    background-color: gray;
+    background-color:  rgba(150, 150, 150);
     font-size: 20px;
     border: solid;
     border-width: thin;
@@ -16,6 +16,5 @@
 }
 
 .tableContent{
-    word-wrap: break-word;
     padding: 10px;
 }
